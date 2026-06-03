@@ -1,4 +1,4 @@
-# 📸 Exif - Comprehensive Metadata Tool  
+# MetaLens
 
 <p align="center">
   <img src="images/ExIF-Logo_BackgroundWhite.png" alt="GUI Screenshot" width="200">
